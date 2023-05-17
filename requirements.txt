@@ -1,5 +1,6 @@
-requests
+datetime
 bs4
-tqdm
-pandas
 matplotlib
+pandas
+requests
+tqdm
