@@ -10,5 +10,5 @@ Difficulté : Intermédiaire
 Etude des données [Trustpilot](https://fr.trustpilot.com/categories/takeaway)
 
 2 parties :
-- Scraping des avis clients sur Trustpilot et bonnes pratiqyes de collecte
+- Scraping des avis clients sur Trustpilot et bonnes pratiques de collecte
 - NLP & Sentiment Analysis : Analyse textuelle des commentaires
