@@ -6,3 +6,5 @@ pandas
 requests
 tqdm
 wordcloud
+spacy
+unidecode
