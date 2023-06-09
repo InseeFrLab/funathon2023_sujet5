@@ -15,4 +15,4 @@ mc cp s3/projet-funathon/2023/sujet5/reviews_takeaway.parquet data/reviews_takea
 
 # Open the relevant notebook when starting Jupyter Lab
 jupyter server --generate-config
-echo "c.LabApp.default_url = '/lab/tree/tutoriel.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
+echo "c.LabApp.default_url = '/lab/tree/funathon-sujet5/tutoriel.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
