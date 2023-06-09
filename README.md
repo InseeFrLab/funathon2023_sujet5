@@ -3,7 +3,7 @@
 Langages proposés :
 - Python
 
-Difficulté : Intermédiaire
+Difficulté : Intermédiaire (guidé)
 
 ## Analyse textuelle des commentaires clients de services de commande de repas en ligne
 
