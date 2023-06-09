@@ -5,6 +5,8 @@ Langages proposés :
 
 Difficulté : Intermédiaire (guidé)
 
+Lien du tutoriel : 
+
 ## Analyse textuelle des commentaires clients de services de commande de repas en ligne
 
 Etude des données [Trustpilot](https://fr.trustpilot.com/categories/takeaway)
