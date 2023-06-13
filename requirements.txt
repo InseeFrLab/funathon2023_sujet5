@@ -4,7 +4,7 @@ matplotlib
 nltk
 pandas
 requests
-tqdm
-wordcloud
 spacy
+tqdm
 unidecode
+wordcloud
