@@ -1,8 +1,9 @@
-datetime
 bs4
+datetime
 matplotlib
 nltk
 pandas
+pyLDAvis
 requests
 spacy
 tqdm
