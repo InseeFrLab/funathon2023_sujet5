@@ -8,7 +8,7 @@ cd $CLONE_DIR
 
 # Install required packages
 pip install -r requirements.txt
-python -m spacy download fr_core_news_sm
+python -m spacy download fr_core_news_md
 
 # Copy intermediary data
 mkdir data
