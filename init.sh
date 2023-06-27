@@ -12,7 +12,7 @@ python -m spacy download fr_core_news_md
 
 # Copy intermediary data
 mkdir data
-mc cp s3/projet-funathon/2023/sujet5/reviews_takeaway.parquet data/reviews_takeaway.parquet
+mc cp s3/projet-funathon/2023/sujet5/diffusion/reviews_takeaway.parquet data/reviews_takeaway.parquet
 
 # Open the relevant notebook when starting Jupyter Lab
 jupyter server --generate-config
